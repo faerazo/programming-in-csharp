@@ -1,0 +1,6 @@
+E:\TSSHTA\UCSD\CSForBeginnres\Module2\Exercises\MenuAppCS\InputProgram\bin\Debug\InputProgram.exe.config
+E:\TSSHTA\UCSD\CSForBeginnres\Module2\Exercises\MenuAppCS\InputProgram\obj\Debug\InputProgram.csprojResolveAssemblyReference.cache
+E:\TSSHTA\UCSD\CSForBeginnres\Module2\Exercises\MenuAppCS\InputProgram\bin\Debug\InputProgram.exe
+E:\TSSHTA\UCSD\CSForBeginnres\Module2\Exercises\MenuAppCS\InputProgram\bin\Debug\InputProgram.pdb
+E:\TSSHTA\UCSD\CSForBeginnres\Module2\Exercises\MenuAppCS\InputProgram\obj\Debug\InputProgram.exe
+E:\TSSHTA\UCSD\CSForBeginnres\Module2\Exercises\MenuAppCS\InputProgram\obj\Debug\InputProgram.pdb

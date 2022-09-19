@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DaysOfMonthAppCS</name>
+    </assembly>
+    <members>
+        <member name="T:DaysOfMonthAppCS.Month">
+            <summary>
+            Class that calculates the number of days in a month with
+            leap year accounted for.
+            </summary>
+        </member>
+        <member name="M:DaysOfMonthAppCS.Month.Start">
+            <summary> 
+            Starts a calculation of days of a months in given year 
+            Runs a loop until the user inputs a 0 value 
+            </summary> 
+            <remarks></remarks> 
+        </member>
+        <member name="M:DaysOfMonthAppCS.Month.ReadAnIntegerValue(System.String,System.Int32,System.Int32)">
+            <summary> 
+            Read an integer value from the console. 
+            
+            </summary> 
+            <param name="messageToUser">Information given to user.</param> 
+            <param name="min">The value should be >= min.</param> 
+            <param name="max">The value should be less than or equal to max.</param> 
+            <returns>The integer value read from the console.</returns> 
+            <remarks></remarks> 
+        </member>
+        <member name="M:DaysOfMonthAppCS.Month.CalculateDays(System.Int32,System.Int32)">
+            <summary> 
+            Calculates the number of days in a given month,for a given year. 
+            </summary> 
+            <param name="month">Input - a given month.</param> 
+            <param name="year">Input - a given year.</param> 
+            <returns>The number of days for the given month and year.</returns> 
+            <remarks></remarks> 
+        </member>
+        <member name="M:DaysOfMonthAppCS.Month.ShowOutput(System.ValueType,System.Int32,System.Int32)">
+            <summary> 
+            Write out the results. 
+            </summary> 
+            <param name="days">The calculated number of days.</param> 
+            <param name="month">The month, user input</param> 
+            <param name="year">The year, user input.</param> 
+            <remarks></remarks> 
+        </member>
+        <member name="M:DaysOfMonthAppCS.Month.PadLineWithChar(System.Char,System.Int32,System.Boolean)">
+            <summary> 
+            Draw a line with count characters using the given character 
+            </summary> 
+            <param name="symbol">The character to write the line with.</param> 
+            <param name="count">The number of the times</param> 
+            <param name="newLine">If the cursor is to be moved to next line.</param> 
+            <remarks></remarks> 
+        </member>
+        <member name="M:DaysOfMonthAppCS.Month.PadLineWithChar(System.Char,System.Int32)">
+            <summary> 
+            Overloaded method calling PadLinewithChar that has 3 parameter''' 
+            </summary> 
+            
+            <param name="symbol">The character to write the line with.</param> 
+            <param name="count">The number of the times</param> 
+            <remarks>Newline is set to true by default.</remarks> 
+        </member>
+    </members>
+</doc>

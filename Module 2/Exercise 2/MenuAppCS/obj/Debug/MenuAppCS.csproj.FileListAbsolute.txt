@@ -1,0 +1,11 @@
+D:\CodeExample\MenuAppCS\obj\Debug\ResolveAssemblyReference.cache
+D:\CodeExample\MenuAppCS\bin\Debug\MenuAppCS.exe
+D:\CodeExample\MenuAppCS\bin\Debug\MenuAppCS.pdb
+D:\CodeExample\MenuAppCS\obj\Debug\MenuAppCS.exe
+D:\CodeExample\MenuAppCS\obj\Debug\MenuAppCS.pdb
+D:\000.NET\1NETI_DA204\Module2N\Exercises\MenuAppCS\MenuAppCS\bin\Debug\MenuAppCS.exe
+D:\000.NET\1NETI_DA204\Module2N\Exercises\MenuAppCS\MenuAppCS\bin\Debug\MenuAppCS.pdb
+D:\000.NET\1NETI_DA204\Module2N\Exercises\MenuAppCS\MenuAppCS\obj\Debug\MenuAppCS.csprojResolveAssemblyReference.cache
+D:\000.NET\1NETI_DA204\Module2N\Exercises\MenuAppCS\MenuAppCS\obj\Debug\MenuAppCS.csproj.CoreCompileInputs.cache
+D:\000.NET\1NETI_DA204\Module2N\Exercises\MenuAppCS\MenuAppCS\obj\Debug\MenuAppCS.exe
+D:\000.NET\1NETI_DA204\Module2N\Exercises\MenuAppCS\MenuAppCS\obj\Debug\MenuAppCS.pdb

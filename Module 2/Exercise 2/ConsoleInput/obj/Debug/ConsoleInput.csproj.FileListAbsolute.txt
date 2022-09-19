@@ -1,0 +1,6 @@
+E:\TSSHTA\UCSD\CSForBeginnres\Module2\Exercises\ConsoleInput\bin\Debug\InputProgram.exe.config
+E:\TSSHTA\UCSD\CSForBeginnres\Module2\Exercises\ConsoleInput\obj\Debug\InputProgram.exe
+E:\TSSHTA\UCSD\CSForBeginnres\Module2\Exercises\ConsoleInput\obj\Debug\InputProgram.pdb
+E:\TSSHTA\UCSD\CSForBeginnres\Module2\Exercises\ConsoleInput\bin\Debug\InputProgram.exe
+E:\TSSHTA\UCSD\CSForBeginnres\Module2\Exercises\ConsoleInput\bin\Debug\InputProgram.pdb
+E:\TSSHTA\UCSD\CSForBeginnres\Module2\Exercises\ConsoleInput\obj\Debug\ConsoleInput.csproj.CoreCompileInputs.cache

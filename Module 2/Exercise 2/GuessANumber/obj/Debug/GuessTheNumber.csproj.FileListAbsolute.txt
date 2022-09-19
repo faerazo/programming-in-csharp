@@ -1,0 +1,6 @@
+E:\TSSHTA\UCSD\CSForBeginnres\Module2\Exercises\GuessANumber\bin\Debug\Assignment2.exe.config
+E:\TSSHTA\UCSD\CSForBeginnres\Module2\Exercises\GuessANumber\bin\Debug\Assignment2.exe
+E:\TSSHTA\UCSD\CSForBeginnres\Module2\Exercises\GuessANumber\bin\Debug\Assignment2.pdb
+E:\TSSHTA\UCSD\CSForBeginnres\Module2\Exercises\GuessANumber\obj\Debug\GuessTheNumber.csprojResolveAssemblyReference.cache
+E:\TSSHTA\UCSD\CSForBeginnres\Module2\Exercises\GuessANumber\obj\Debug\Assignment2.exe
+E:\TSSHTA\UCSD\CSForBeginnres\Module2\Exercises\GuessANumber\obj\Debug\Assignment2.pdb

@@ -1,0 +1,16 @@
+D:\.NET Courses\1Da107a_DA148a\Module2\exercises\SumSquares\SumNumbersCS\bin\Debug\SumNumbersCS.exe
+D:\.NET Courses\1Da107a_DA148a\Module2\exercises\SumSquares\SumNumbersCS\bin\Debug\SumNumbersCS.pdb
+D:\.NET Courses\1Da107a_DA148a\Module2\exercises\SumSquares\SumNumbersCS\obj\Debug\SumNumbersCS.csprojResolveAssemblyReference.cache
+D:\.NET Courses\1Da107a_DA148a\Module2\exercises\SumSquares\SumNumbersCS\obj\Debug\SumNumbersCS.exe
+D:\.NET Courses\1Da107a_DA148a\Module2\exercises\SumSquares\SumNumbersCS\obj\Debug\SumNumbersCS.pdb
+D:\1NETI_DA204\Module2\Exercises\SumSquaresCS\SumSquaresCS\bin\Debug\SumNumbersCS.exe
+D:\1NETI_DA204\Module2\Exercises\SumSquaresCS\SumSquaresCS\bin\Debug\SumNumbersCS.pdb
+D:\1NETI_DA204\Module2\Exercises\SumSquaresCS\SumSquaresCS\obj\Debug\SumNumbersCS.csprojResolveAssemblyReference.cache
+D:\1NETI_DA204\Module2\Exercises\SumSquaresCS\SumSquaresCS\obj\Debug\SumNumbersCS.exe
+D:\1NETI_DA204\Module2\Exercises\SumSquaresCS\SumSquaresCS\obj\Debug\SumNumbersCS.pdb
+D:\000.NET\1NETI_DA204\Module2N\Exercises\SumSquaresCS\SumSquaresCS\bin\Debug\SumNumbersCS.exe
+D:\000.NET\1NETI_DA204\Module2N\Exercises\SumSquaresCS\SumSquaresCS\bin\Debug\SumNumbersCS.pdb
+D:\000.NET\1NETI_DA204\Module2N\Exercises\SumSquaresCS\SumSquaresCS\obj\Debug\SumNumbersCS.csprojResolveAssemblyReference.cache
+D:\000.NET\1NETI_DA204\Module2N\Exercises\SumSquaresCS\SumSquaresCS\obj\Debug\SumNumbersCS.csproj.CoreCompileInputs.cache
+D:\000.NET\1NETI_DA204\Module2N\Exercises\SumSquaresCS\SumSquaresCS\obj\Debug\SumNumbersCS.exe
+D:\000.NET\1NETI_DA204\Module2N\Exercises\SumSquaresCS\SumSquaresCS\obj\Debug\SumNumbersCS.pdb

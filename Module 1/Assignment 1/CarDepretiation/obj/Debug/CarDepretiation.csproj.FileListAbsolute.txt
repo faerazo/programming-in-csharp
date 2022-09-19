@@ -1,0 +1,8 @@
+C:\Users\faerazo\source\repos\Assigment1\CarDepretiation\bin\Debug\CarDepretiation.exe.config
+C:\Users\faerazo\source\repos\Assigment1\CarDepretiation\bin\Debug\CarDepretiation.exe
+C:\Users\faerazo\source\repos\Assigment1\CarDepretiation\bin\Debug\CarDepretiation.pdb
+C:\Users\faerazo\source\repos\Assigment1\CarDepretiation\obj\Debug\CarDepretiation.csproj.AssemblyReference.cache
+C:\Users\faerazo\source\repos\Assigment1\CarDepretiation\obj\Debug\CarDepretiation.csproj.SuggestedBindingRedirects.cache
+C:\Users\faerazo\source\repos\Assigment1\CarDepretiation\obj\Debug\CarDepretiation.csproj.CoreCompileInputs.cache
+C:\Users\faerazo\source\repos\Assigment1\CarDepretiation\obj\Debug\CarDepretiation.exe
+C:\Users\faerazo\source\repos\Assigment1\CarDepretiation\obj\Debug\CarDepretiation.pdb

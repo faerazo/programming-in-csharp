@@ -1,0 +1,7 @@
+D:\000.NET\1NETI_DA204\Module1N\Exercises\Exercise1Console\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\000.NET\1NETI_DA204\Module1N\Exercises\Exercise1Console\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\000.NET\1NETI_DA204\Module1N\Exercises\Exercise1Console\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\000.NET\1NETI_DA204\Module1N\Exercises\Exercise1Console\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\000.NET\1NETI_DA204\Module1N\Exercises\Exercise1Console\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\000.NET\1NETI_DA204\Module1N\Exercises\Exercise1Console\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\000.NET\1NETI_DA204\Module1N\Exercises\Exercise1Console\ConsoleApp\obj\Debug\ConsoleApp.pdb

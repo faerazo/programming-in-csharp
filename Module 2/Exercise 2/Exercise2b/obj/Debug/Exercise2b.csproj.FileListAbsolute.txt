@@ -1,0 +1,14 @@
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\WhileStatements\obj\Debug\Exercise2b.csproj.CoreCompileInputs.cache
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\WhileStatements\bin\Debug\WhileStatements.exe.config
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\WhileStatements\bin\Debug\WhileStatements.exe
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\WhileStatements\bin\Debug\WhileStatements.pdb
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\WhileStatements\obj\Debug\WhileStatements.exe
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\WhileStatements\obj\Debug\WhileStatements.pdb
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\WhileStatements\obj\Debug\Exercise2b.csprojAssemblyReference.cache
+D:\000.NET\1NETI_DA204\Module2N\Exercises\0IterationsConsole\Exercise2b\bin\Debug\WhileStatements.exe.config
+D:\000.NET\1NETI_DA204\Module2N\Exercises\0IterationsConsole\Exercise2b\bin\Debug\WhileStatements.exe
+D:\000.NET\1NETI_DA204\Module2N\Exercises\0IterationsConsole\Exercise2b\bin\Debug\WhileStatements.pdb
+D:\000.NET\1NETI_DA204\Module2N\Exercises\0IterationsConsole\Exercise2b\obj\Debug\Exercise2b.csprojAssemblyReference.cache
+D:\000.NET\1NETI_DA204\Module2N\Exercises\0IterationsConsole\Exercise2b\obj\Debug\Exercise2b.csproj.CoreCompileInputs.cache
+D:\000.NET\1NETI_DA204\Module2N\Exercises\0IterationsConsole\Exercise2b\obj\Debug\WhileStatements.exe
+D:\000.NET\1NETI_DA204\Module2N\Exercises\0IterationsConsole\Exercise2b\obj\Debug\WhileStatements.pdb

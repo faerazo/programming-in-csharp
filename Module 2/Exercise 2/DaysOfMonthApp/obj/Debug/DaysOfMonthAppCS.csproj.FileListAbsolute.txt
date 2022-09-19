@@ -1,0 +1,15 @@
+D:\1NETI_DA204\Module2\Exercises\DaysOfMonthAppCS\bin\Debug\DaysOfMonthAppCS.exe.config
+D:\1NETI_DA204\Module2\Exercises\DaysOfMonthAppCS\bin\Debug\DaysOfMonthAppCS.exe
+D:\1NETI_DA204\Module2\Exercises\DaysOfMonthAppCS\bin\Debug\DaysOfMonthAppCS.pdb
+D:\1NETI_DA204\Module2\Exercises\DaysOfMonthAppCS\bin\Debug\DaysOfMonthAppCS.XML
+D:\1NETI_DA204\Module2\Exercises\DaysOfMonthAppCS\obj\Debug\DaysOfMonthAppCS.csprojResolveAssemblyReference.cache
+D:\1NETI_DA204\Module2\Exercises\DaysOfMonthAppCS\obj\Debug\DaysOfMonthAppCS.exe
+D:\1NETI_DA204\Module2\Exercises\DaysOfMonthAppCS\obj\Debug\DaysOfMonthAppCS.pdb
+D:\000.NET\1NETI_DA204\Module2N\Exercises\DaysOfMonthApp\bin\Debug\DaysOfMonthAppCS.exe.config
+D:\000.NET\1NETI_DA204\Module2N\Exercises\DaysOfMonthApp\bin\Debug\DaysOfMonthAppCS.exe
+D:\000.NET\1NETI_DA204\Module2N\Exercises\DaysOfMonthApp\bin\Debug\DaysOfMonthAppCS.pdb
+D:\000.NET\1NETI_DA204\Module2N\Exercises\DaysOfMonthApp\bin\Debug\DaysOfMonthAppCS.XML
+D:\000.NET\1NETI_DA204\Module2N\Exercises\DaysOfMonthApp\obj\Debug\DaysOfMonthAppCS.csprojResolveAssemblyReference.cache
+D:\000.NET\1NETI_DA204\Module2N\Exercises\DaysOfMonthApp\obj\Debug\DaysOfMonthAppCS.csproj.CoreCompileInputs.cache
+D:\000.NET\1NETI_DA204\Module2N\Exercises\DaysOfMonthApp\obj\Debug\DaysOfMonthAppCS.exe
+D:\000.NET\1NETI_DA204\Module2N\Exercises\DaysOfMonthApp\obj\Debug\DaysOfMonthAppCS.pdb

@@ -1,0 +1,8 @@
+C:\Users\faerazo\source\repos\Assigment1\KidsFair\bin\Debug\KidsFair.exe.config
+C:\Users\faerazo\source\repos\Assigment1\KidsFair\bin\Debug\KidsFair.exe
+C:\Users\faerazo\source\repos\Assigment1\KidsFair\bin\Debug\KidsFair.pdb
+C:\Users\faerazo\source\repos\Assigment1\KidsFair\obj\Debug\KidsFair.csproj.AssemblyReference.cache
+C:\Users\faerazo\source\repos\Assigment1\KidsFair\obj\Debug\KidsFair.csproj.SuggestedBindingRedirects.cache
+C:\Users\faerazo\source\repos\Assigment1\KidsFair\obj\Debug\KidsFair.csproj.CoreCompileInputs.cache
+C:\Users\faerazo\source\repos\Assigment1\KidsFair\obj\Debug\KidsFair.exe
+C:\Users\faerazo\source\repos\Assigment1\KidsFair\obj\Debug\KidsFair.pdb

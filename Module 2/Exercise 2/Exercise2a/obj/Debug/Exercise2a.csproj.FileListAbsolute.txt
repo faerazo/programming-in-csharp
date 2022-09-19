@@ -1,0 +1,14 @@
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\MenuApp\bin\Debug\MenuApp.exe.config
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\MenuApp\bin\Debug\MenuApp.exe
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\MenuApp\bin\Debug\MenuApp.pdb
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\MenuApp\obj\Debug\Exercise2a.csprojAssemblyReference.cache
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\MenuApp\obj\Debug\Exercise2a.csproj.CoreCompileInputs.cache
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\MenuApp\obj\Debug\MenuApp.exe
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\MenuApp\obj\Debug\MenuApp.pdb
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\Exercise2a\bin\Debug\MenuApp.exe.config
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\Exercise2a\bin\Debug\MenuApp.exe
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\Exercise2a\bin\Debug\MenuApp.pdb
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\Exercise2a\obj\Debug\Exercise2a.csprojAssemblyReference.cache
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\Exercise2a\obj\Debug\Exercise2a.csproj.CoreCompileInputs.cache
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\Exercise2a\obj\Debug\MenuApp.exe
+D:\000.NET\1NETI_DA204\Module2N\Exercises\IterationsConsole\Exercise2a\obj\Debug\MenuApp.pdb
