@@ -1,0 +1,10 @@
+D:\1NETI_DA204\Module3\PensionCalcCSV1\obj\x86\Debug\PensionCalculatorV1.MainForm.resources
+D:\1NETI_DA204\Module3\PensionCalcCSV1\obj\x86\Debug\PensionCalc.csproj.GenerateResource.Cache
+D:\000.NET\1NETI_DA204\Module3N\CodeSamples\PensionCalcCSV1\bin\Debug\PensionKalkylatorn.exe
+D:\000.NET\1NETI_DA204\Module3N\CodeSamples\PensionCalcCSV1\bin\Debug\PensionKalkylatorn.pdb
+D:\000.NET\1NETI_DA204\Module3N\CodeSamples\PensionCalcCSV1\obj\x86\Debug\PensionCalculatorV1.MainForm.resources
+D:\000.NET\1NETI_DA204\Module3N\CodeSamples\PensionCalcCSV1\obj\x86\Debug\PensionCalc.csproj.GenerateResource.Cache
+D:\000.NET\1NETI_DA204\Module3N\CodeSamples\PensionCalcCSV1\obj\x86\Debug\PensionCalc.csproj.CoreCompileInputs.cache
+D:\000.NET\1NETI_DA204\Module3N\CodeSamples\PensionCalcCSV1\obj\x86\Debug\PensionKalkylatorn.exe
+D:\000.NET\1NETI_DA204\Module3N\CodeSamples\PensionCalcCSV1\obj\x86\Debug\PensionKalkylatorn.pdb
+D:\000.NET\1NETI_DA204\Module3N\CodeSamples\PensionCalcCSV1\obj\x86\Debug\PensionCalc.csprojAssemblyReference.cache

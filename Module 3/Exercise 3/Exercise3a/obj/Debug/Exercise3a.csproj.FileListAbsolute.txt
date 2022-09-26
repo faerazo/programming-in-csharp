@@ -1,0 +1,10 @@
+C:\DotNet\Module3\Exercise3a\bin\Debug\Exercise3a.exe.config
+C:\DotNet\Module3\Exercise3a\bin\Debug\Exercise3a.exe
+C:\DotNet\Module3\Exercise3a\bin\Debug\Exercise3a.pdb
+C:\DotNet\Module3\Exercise3a\obj\Debug\Exercise3a.csprojAssemblyReference.cache
+C:\DotNet\Module3\Exercise3a\obj\Debug\Exercise3a.MainForm.resources
+C:\DotNet\Module3\Exercise3a\obj\Debug\Exercise3a.Properties.Resources.resources
+C:\DotNet\Module3\Exercise3a\obj\Debug\Exercise3a.csproj.GenerateResource.cache
+C:\DotNet\Module3\Exercise3a\obj\Debug\Exercise3a.csproj.CoreCompileInputs.cache
+C:\DotNet\Module3\Exercise3a\obj\Debug\Exercise3a.exe
+C:\DotNet\Module3\Exercise3a\obj\Debug\Exercise3a.pdb

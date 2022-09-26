@@ -1,0 +1,4 @@
+D:\1NETI_DA204\Module3\GuessANumberV1CS\bin\x64\Debug\GuessANumberV1CS.exe.config
+D:\1NETI_DA204\Module3\GuessANumberV1CS\obj\x64\Debug\GuessANumberV1CS.csprojResolveAssemblyReference.cache
+D:\1NETI_DA204\Module3\GuessANumberV1CS\obj\x64\Debug\GuessANumberV1CS.MainForm.resources
+D:\1NETI_DA204\Module3\GuessANumberV1CS\obj\x64\Debug\GuessANumberV1CS.csproj.GenerateResource.Cache

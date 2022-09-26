@@ -1,0 +1,17 @@
+D:\1NETI_DA204\Module3\GuessANumberV1CS\bin\Release\GuessANumberV1CS.exe.config
+D:\1NETI_DA204\Module3\GuessANumberV1CS\bin\Release\GuessANumberV1CS.exe
+D:\1NETI_DA204\Module3\GuessANumberV1CS\bin\Release\GuessANumberV1CS.pdb
+D:\1NETI_DA204\Module3\GuessANumberV1CS\obj\Release\GuessANumberV1CS.MainForm.resources
+D:\1NETI_DA204\Module3\GuessANumberV1CS\obj\Release\GuessANumberV1CS.Properties.Resources.resources
+D:\1NETI_DA204\Module3\GuessANumberV1CS\obj\Release\GuessANumberV1CS.csproj.GenerateResource.Cache
+D:\1NETI_DA204\Module3\GuessANumberV1CS\obj\Release\GuessANumberV1CS.exe
+D:\1NETI_DA204\Module3\GuessANumberV1CS\obj\Release\GuessANumberV1CS.pdb
+D:\000.NET\1NETI_DA204\Module3N\CodeSamples\GuessANumberV1CS\bin\Release\GuessANumberV1CS.exe.config
+D:\000.NET\1NETI_DA204\Module3N\CodeSamples\GuessANumberV1CS\bin\Release\GuessANumberV1CS.exe
+D:\000.NET\1NETI_DA204\Module3N\CodeSamples\GuessANumberV1CS\bin\Release\GuessANumberV1CS.pdb
+D:\000.NET\1NETI_DA204\Module3N\CodeSamples\GuessANumberV1CS\obj\Release\GuessANumberV1CS.MainForm.resources
+D:\000.NET\1NETI_DA204\Module3N\CodeSamples\GuessANumberV1CS\obj\Release\GuessANumberV1CS.Properties.Resources.resources
+D:\000.NET\1NETI_DA204\Module3N\CodeSamples\GuessANumberV1CS\obj\Release\GuessANumberV1CS.csproj.GenerateResource.Cache
+D:\000.NET\1NETI_DA204\Module3N\CodeSamples\GuessANumberV1CS\obj\Release\GuessANumberV1CS.csproj.CoreCompileInputs.cache
+D:\000.NET\1NETI_DA204\Module3N\CodeSamples\GuessANumberV1CS\obj\Release\GuessANumberV1CS.exe
+D:\000.NET\1NETI_DA204\Module3N\CodeSamples\GuessANumberV1CS\obj\Release\GuessANumberV1CS.pdb
