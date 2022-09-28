@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="https://mau.se/siteassets/mau_en_logotype.svg"/>
+</p>
+
 
 # Programming in C# 💻
-![Logo](https://mau.se/siteassets/mau_en_logotype.svg)
 
 ## Introduction
 This repository contains the assignments, exercises, and material for the course "Programming in C#" from Malmö University.
