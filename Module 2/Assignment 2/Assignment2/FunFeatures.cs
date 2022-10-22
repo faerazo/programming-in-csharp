@@ -15,8 +15,10 @@ namespace Assignment2
 
         public void Start()
         {
+            // present the developer name and course
             Introduce();
 
+            // bool variable for do-while loop, the loop will continue if the user decide to run it again
             bool done = false;
 
             do
@@ -43,7 +45,7 @@ namespace Assignment2
 
         private void Introduce()
         {
-            // student introduction
+            // student introduction: name and course
             Console.Write("Hey there, my name is Francisco and I am a student of the Programming in C# - HT22");
             Console.WriteLine();
             Console.WriteLine("Help me with the following questions about yourself...");
@@ -85,14 +87,17 @@ namespace Assignment2
             int day = 0;
             bool proceedDay = false;
 
-            // while loop for getting a correct answer from the user between 1 and 7, it will run again if the user doesnt provive a good response
+            // while loop for getting a correct answer from the user between 1 and 7, it will return an error if the user doesn't provive a good response
             while (!proceedDay)
             {
+                // ask the user for a number
                 Console.WriteLine("Please select a number between 1 and 7: ");
                 string textValue = Console.ReadLine();
 
+                // bool variable to record if the answer provided by the user is a integer
                 bool success = int.TryParse(textValue, out day);
 
+                // if sucess is true (user provide an integer) and this integer is between 0 and 7, the program can switch that integer with a comment
                 if ((success) && (day > 0) && (day <= 7))
                 {
                     proceedDay = true;
@@ -122,6 +127,7 @@ namespace Assignment2
                     }
                 }
 
+                // error message when users provide an invalid answer
                 if (!proceedDay)
                 {
                     Console.WriteLine();
@@ -134,6 +140,7 @@ namespace Assignment2
 
         public void CalculateStringLength()
         {
+            // ask the user to provide a text or sentence
             Console.WriteLine();
             Console.WriteLine("Please enter a sentence or a text: ");
             string userString = Console.ReadLine();
@@ -141,7 +148,7 @@ namespace Assignment2
 
             // two results, the first considers spaces as characters, the second remove all spaces from the string, in other words, it does not consider spaces as characters
             Console.WriteLine();
-            Console.WriteLine("Your sentence or text has a total of " + userString.Length + " characters (considering spaces as characters).");
+            Console.WriteLine("Your sentence or text has a total of " + userString.Length + " characters (considering spaces as characters)."); 
             Console.WriteLine("Your sentence or text has a total of " + userStringNoSpaces.Length + " characters (without considering spaces as characters).");
 
         }
@@ -151,6 +158,7 @@ namespace Assignment2
             bool response = false; // true = y, false = n
 
             Console.WriteLine();
+            // ask user to run the program again
             Console.WriteLine("Do you want to run the program again (y/n)?");
 
             bool goodResponse = false;
@@ -161,16 +169,19 @@ namespace Assignment2
                 string str = Console.ReadLine();
                 str = str.ToLower();
 
+                // if user provides a Yes, the response is false (in the method Start() done = false keeps the do-while running) and the goodResponse is true because Yes is a valid answer 
                 if (str[0] == 'y')
                 {
                     response = false;
                     goodResponse = true;
                 }
+                // if user provides a No, the response is true (in the method Start() done = true stops the do-while) and the goodResponse is true because No is a valid answer
                 else if (str[0] == 'n')
                 {
                     response = true;
                     goodResponse = true;
                 }
+                // if user provides another answer, the program will ask user to provide a correct one, goodReponse is false because the answer is invalid
                 else
                 {
                     Console.WriteLine("Please use Y/N or y/n!");

@@ -13,6 +13,7 @@ namespace Assignment2
         
         public void Start()
         {
+            // bool variable for do-while loop, the loop will continue if the user decide to run it again
             bool done = false;
 
             do
@@ -21,7 +22,7 @@ namespace Assignment2
                 SumberNumbers();
 
                 // run again
-                done = RunAgain();
+                done = ExitCalculations();
 
             } while (!done);
 
@@ -37,6 +38,7 @@ namespace Assignment2
             int number1;
             int number2;
 
+            // bool variable to record if the user provides an integer
             bool successN1 = false;
 
             // do-while loop for getting a right answer from the user
@@ -47,14 +49,16 @@ namespace Assignment2
                 string strNum1 = Console.ReadLine();
                 successN1 = int.TryParse(strNum1, out number1);
 
+                // if user provides an answer that is not integer, print error message
                 if (!successN1)
                 {
                     Console.WriteLine("Wrong input!");
                 }
 
-            } while (!successN1);
+            } while (!successN1); // the loop will continue until the user provides an integer
 
 
+            // bool variable to record if ther user provides an integer
             bool successN2 = false;
 
             // do-while loop for getting a right answer from the user
@@ -65,6 +69,7 @@ namespace Assignment2
                 string strNum2 = Console.ReadLine();
                 successN2 = int.TryParse(strNum2, out number2);
 
+                // if user provides an answer that is not integer, print error message
                 if (!successN2)
                 {
                     Console.WriteLine("Wrong input!");
@@ -73,7 +78,6 @@ namespace Assignment2
             } while (!successN2);
 
             int totalSum;
-
 
             if (number1 < number2) // condition for changing number positions if the first is lower than the second number
             {
@@ -84,7 +88,7 @@ namespace Assignment2
                 Console.WriteLine("Even numbers between " + number1 + " and " + number2 + ": ");
                 PrintEvenNumbers(number1, number2);
             } 
-            else // condition for changing number positions 
+            else // condition for changing number positions, if the first is higher than the second number
             {
                 totalSum = SumNumbers(number2, number1);
                 Console.WriteLine();
@@ -97,6 +101,7 @@ namespace Assignment2
 
         private int SumNumbers(int start, int end)
         {
+            // initial value
             int sum = 0;
 
             // for loop for addding all the values between a range 
@@ -148,13 +153,13 @@ namespace Assignment2
         }
 
 
-        private bool RunAgain()
+        private bool ExitCalculations()
         {
             bool response = false; // true = y, false = n
 
             Console.WriteLine();
-            Console.WriteLine("Do you want to calculate again (y/n)?");
-            Console.WriteLine();
+            // ask user to run the program again
+            Console.WriteLine("Exit calculations (y/n)?");
 
             bool goodResponse = false;
 
@@ -164,19 +169,25 @@ namespace Assignment2
                 string str = Console.ReadLine();
                 str = str.ToLower();
 
-                if (str[0] == 'y')
+                // if user provides a No, the response is false (in the method Start() done = false keeps the do-while running) and the goodResponse is true because Yes is a valid answer 
+                if (str[0] == 'n')
                 {
                     response = false;
                     goodResponse = true;
+                    Console.WriteLine();
                 }
-                else if (str[0] == 'n')
+                // if user provides a Yes, the response is true (in the method Start() done = true stops the do-while) and the goodResponse is true because No is a valid answer
+                else if (str[0] == 'y')
                 {
                     response = true;
                     goodResponse = true;
+                    Console.WriteLine();
                 }
+                // if user provides another answer, the program will ask user to provide a correct one, goodReponse is false because the answer is invalid
                 else
                 {
                     Console.WriteLine("Please use Y/N or y/n!");
+                    Console.WriteLine();
                     goodResponse = false;
                 }
             } while (!goodResponse);
