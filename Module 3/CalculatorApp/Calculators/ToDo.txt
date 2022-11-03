@@ -1,0 +1,63 @@
+﻿Solving any Assignment - a practical modell
+
+We have two classes:   
+  - MainForm 			Handle communication between the user and the app.
+  - CurrencyExchange	Needs input from MainForm
+						Perform calculations
+						Provide output
+ Mainform (M) is the client of CurrencyExchange (CE)
+ M creates an object of CE
+ M owns the object (obj) as its private property
+ M accesses all public members of CE
+ - members to set input to this object
+ - members to make calculations and get output
+ 
+ It is all up to the M how it gets input from the user
+ It is all up to the M how it displays the output.
+
+ Any other object of any other class can create an obj of CE 
+ and use it in the same way as M, with or with a user on the 
+ other end!
+
+ We have now a GUI (M) and CE obj.  M has control!
+ Getting input is an important part. 
+ You can always use this model:
+ In the MainForm:
+   - Create an instance of another class (with new), here CE
+   - Get the content of a control, a textbox, etc.
+   - Validate the input
+   - if OK
+	   - Save the value in the obj
+	   - Let the object do the required calculations by 
+	     calling its methods
+	   - Update your GUI (M)
+	That is ALL
+
+  
+READING INPUT:
+   - Write one main method:
+       
+
+
+
+The three steps to remember.
+	1. Get input, 
+		- Fetch data from controls (Textboxes, listboxes, etc.) 
+		  and save it in variables
+		- Validate the input based on your conditions
+		- If OK go to next step 
+		- If not, error message and do nothing
+
+	2. Process data - determine when to do this
+		- do calculations, manipulations, etc.
+		- save results in variables or in the return value
+		  of the method doing the processing.
+
+	3. Display results
+		- Get results from your calculations 
+		  (variables, or call methods. ).
+		- Display on the GUI using the dedicated controls.
+
+		MainForm  (M)  ---> CurrencyEchange (C)
+		  Client ---  Server
+
