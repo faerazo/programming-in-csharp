@@ -37,3 +37,14 @@ D:\000.NET\1NETI_DA204\Module3N\CodeSamples\ListBoxProgramCS\ListBoxProgramCS\ob
 D:\000.NET\1NETI_DA204\Module3N\CodeSamples\ListBoxProgramCS\ListBoxProgramCS\obj\Debug\ListBoxProgram.csproj.CoreCompileInputs.cache
 D:\000.NET\1NETI_DA204\Module3N\CodeSamples\ListBoxProgramCS\ListBoxProgramCS\obj\Debug\ListBoxProgram.exe
 D:\000.NET\1NETI_DA204\Module3N\CodeSamples\ListBoxProgramCS\ListBoxProgramCS\obj\Debug\ListBoxProgram.pdb
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\ListBoxProgramCS\bin\Debug\ListBoxProgram.exe.config
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\ListBoxProgramCS\bin\Debug\ListBoxProgram.exe
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\ListBoxProgramCS\bin\Debug\ListBoxProgram.pdb
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\ListBoxProgramCS\obj\Debug\ListBoxProgram.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\ListBoxProgramCS\obj\Debug\ListBoxProgram.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\ListBoxProgramCS\obj\Debug\ListBoxProgram.MainForm.resources
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\ListBoxProgramCS\obj\Debug\ListBoxProgram.Properties.Resources.resources
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\ListBoxProgramCS\obj\Debug\ListBoxProgram.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\ListBoxProgramCS\obj\Debug\ListBoxProgram.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\ListBoxProgramCS\obj\Debug\ListBoxProgram.exe
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\ListBoxProgramCS\obj\Debug\ListBoxProgram.pdb

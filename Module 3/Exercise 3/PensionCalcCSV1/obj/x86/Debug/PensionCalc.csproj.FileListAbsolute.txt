@@ -8,3 +8,13 @@ D:\000.NET\1NETI_DA204\Module3N\CodeSamples\PensionCalcCSV1\obj\x86\Debug\Pensio
 D:\000.NET\1NETI_DA204\Module3N\CodeSamples\PensionCalcCSV1\obj\x86\Debug\PensionKalkylatorn.exe
 D:\000.NET\1NETI_DA204\Module3N\CodeSamples\PensionCalcCSV1\obj\x86\Debug\PensionKalkylatorn.pdb
 D:\000.NET\1NETI_DA204\Module3N\CodeSamples\PensionCalcCSV1\obj\x86\Debug\PensionCalc.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\PensionCalcCSV1\bin\Debug\PensionKalkylatorn.exe.config
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\PensionCalcCSV1\bin\Debug\PensionKalkylatorn.exe
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\PensionCalcCSV1\bin\Debug\PensionKalkylatorn.pdb
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\PensionCalcCSV1\obj\x86\Debug\PensionCalc.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\PensionCalcCSV1\obj\x86\Debug\PensionCalc.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\PensionCalcCSV1\obj\x86\Debug\PensionCalculatorV1.MainForm.resources
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\PensionCalcCSV1\obj\x86\Debug\PensionCalc.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\PensionCalcCSV1\obj\x86\Debug\PensionCalc.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\PensionCalcCSV1\obj\x86\Debug\PensionKalkylatorn.exe
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\PensionCalcCSV1\obj\x86\Debug\PensionKalkylatorn.pdb

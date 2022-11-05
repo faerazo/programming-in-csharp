@@ -17,3 +17,14 @@ D:\000.NET\1NETI_DA204\Module3N\CodeSamples\GuessANumberV1CS\obj\Debug\GuessANum
 D:\000.NET\1NETI_DA204\Module3N\CodeSamples\GuessANumberV1CS\obj\Debug\GuessANumberV1CS.csproj.CoreCompileInputs.cache
 D:\000.NET\1NETI_DA204\Module3N\CodeSamples\GuessANumberV1CS\obj\Debug\GuessANumberV1CS.exe
 D:\000.NET\1NETI_DA204\Module3N\CodeSamples\GuessANumberV1CS\obj\Debug\GuessANumberV1CS.pdb
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\GuessANumberV1CS\bin\Debug\GuessANumberV1CS.exe.config
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\GuessANumberV1CS\bin\Debug\GuessANumberV1CS.exe
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\GuessANumberV1CS\bin\Debug\GuessANumberV1CS.pdb
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\GuessANumberV1CS\obj\Debug\GuessANumberV1CS.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\GuessANumberV1CS\obj\Debug\GuessANumberV1CS.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\GuessANumberV1CS\obj\Debug\GuessANumberV1CS.MainForm.resources
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\GuessANumberV1CS\obj\Debug\GuessANumberV1CS.Properties.Resources.resources
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\GuessANumberV1CS\obj\Debug\GuessANumberV1CS.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\GuessANumberV1CS\obj\Debug\GuessANumberV1CS.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\GuessANumberV1CS\obj\Debug\GuessANumberV1CS.exe
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\GuessANumberV1CS\obj\Debug\GuessANumberV1CS.pdb

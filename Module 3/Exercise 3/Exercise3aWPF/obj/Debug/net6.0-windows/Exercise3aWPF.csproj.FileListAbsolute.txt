@@ -19,3 +19,24 @@ C:\Users\Ferhat Sevim\Downloads\Programming_in_C#_HT22\exercises\M3\Exercise3aWP
 C:\Users\Ferhat Sevim\Downloads\Programming_in_C#_HT22\exercises\M3\Exercise3aWPF\obj\Debug\net6.0-windows\Exercise3aWPF.pdb
 C:\Users\Ferhat Sevim\Downloads\Programming_in_C#_HT22\exercises\M3\Exercise3aWPF\obj\Debug\net6.0-windows\Exercise3aWPF.genruntimeconfig.cache
 C:\Users\Ferhat Sevim\Downloads\Programming_in_C#_HT22\exercises\M3\Exercise3aWPF\obj\Debug\net6.0-windows\ref\Exercise3aWPF.dll
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\bin\Debug\net6.0-windows\Exercise3aWPF.exe
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\bin\Debug\net6.0-windows\Exercise3aWPF.deps.json
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\bin\Debug\net6.0-windows\Exercise3aWPF.runtimeconfig.json
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\bin\Debug\net6.0-windows\Exercise3aWPF.dll
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\bin\Debug\net6.0-windows\Exercise3aWPF.pdb
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\obj\Debug\net6.0-windows\Exercise3aWPF.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\obj\Debug\net6.0-windows\App.g.cs
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\obj\Debug\net6.0-windows\Exercise3aWPF_MarkupCompile.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\obj\Debug\net6.0-windows\Exercise3aWPF_MarkupCompile.lref
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\obj\Debug\net6.0-windows\MainWindow.baml
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\obj\Debug\net6.0-windows\Exercise3aWPF.g.resources
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\obj\Debug\net6.0-windows\Exercise3aWPF.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\obj\Debug\net6.0-windows\Exercise3aWPF.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\obj\Debug\net6.0-windows\Exercise3aWPF.AssemblyInfo.cs
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\obj\Debug\net6.0-windows\Exercise3aWPF.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\obj\Debug\net6.0-windows\Exercise3aWPF.dll
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\obj\Debug\net6.0-windows\refint\Exercise3aWPF.dll
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\obj\Debug\net6.0-windows\Exercise3aWPF.pdb
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\obj\Debug\net6.0-windows\Exercise3aWPF.genruntimeconfig.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 3\Exercise 3\Exercise3aWPF\obj\Debug\net6.0-windows\ref\Exercise3aWPF.dll
