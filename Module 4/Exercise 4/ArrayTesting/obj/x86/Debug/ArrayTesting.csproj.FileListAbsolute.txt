@@ -1,0 +1,11 @@
+D:\0Courses\.NET Courses\DA107a\Module4\ArrayTesting\bin\Debug\ArrayTesting.exe
+D:\0Courses\.NET Courses\DA107a\Module4\ArrayTesting\bin\Debug\ArrayTesting.pdb
+D:\0Courses\.NET Courses\DA107a\Module4\ArrayTesting\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\0Courses\.NET Courses\DA107a\Module4\ArrayTesting\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\0Courses\.NET Courses\DA107a\Module4\ArrayTesting\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\0Courses\.NET Courses\DA107a\Module4\ArrayTesting\obj\x86\Debug\ArrayTesting.exe
+D:\0Courses\.NET Courses\DA107a\Module4\ArrayTesting\obj\x86\Debug\ArrayTesting.pdb
+D:\0Courses\.NET Courses\DA107a\Module4\ArrayTesting\obj\x86\Debug\ArrayOfOjectsTest.MainForm.resources
+D:\0Courses\.NET Courses\DA107a\Module4\ArrayTesting\obj\x86\Debug\ArrayOfOjectsTest.Properties.Resources.resources
+D:\0Courses\.NET Courses\Da107a\Module4\CodeExamples\ArrayTesting\obj\x86\Debug\ArrayTesting.exe
+D:\0Courses\.NET Courses\Da107a\Module4\CodeExamples\ArrayTesting\obj\x86\Debug\ArrayTesting.pdb

@@ -1,0 +1,24 @@
+C:\temp\33\bin\Debug\BirthdayWatch.exe
+C:\temp\33\bin\Debug\BirthdayWatch.pdb
+C:\temp\33\obj\x86\Debug\TimeTrackerCS.csprojResolveAssemblyReference.cache
+C:\temp\33\obj\x86\Debug\TimeTracker.MainForm.resources
+C:\temp\33\obj\x86\Debug\TimeTracker.Properties.Resources.resources
+C:\temp\33\obj\x86\Debug\TimeTrackerCS.csproj.GenerateResource.Cache
+C:\temp\33\obj\x86\Debug\BirthdayWatch.exe
+C:\temp\33\obj\x86\Debug\BirthdayWatch.pdb
+D:\.NET Courses\NETI_DA204\Module5\Exercises\TimeTrackerCS\obj\x86\Debug\BirthdayWatch.exe
+D:\.NET Courses\NETI_DA204\Module5\Exercises\TimeTrackerCS\obj\x86\Debug\BirthdayWatch.pdb
+D:\.NET Courses\NETI_DA204\Module5\Exercises\TimeTrackerCS\bin\Debug\BirthdayWatch.exe
+D:\.NET Courses\NETI_DA204\Module5\Exercises\TimeTrackerCS\bin\Debug\BirthdayWatch.pdb
+D:\.NET Courses\NETI_DA204\Module5\Exercises\TimeTrackerCS\obj\x86\Debug\TimeTrackerCS.csprojResolveAssemblyReference.cache
+D:\.NET Courses\NETI_DA204\Module5\Exercises\TimeTrackerCS\obj\x86\Debug\TimeTracker.MainForm.resources
+D:\.NET Courses\NETI_DA204\Module5\Exercises\TimeTrackerCS\obj\x86\Debug\TimeTracker.Properties.Resources.resources
+D:\.NET Courses\NETI_DA204\Module5\Exercises\TimeTrackerCS\obj\x86\Debug\TimeTrackerCS.csproj.GenerateResource.Cache
+D:\1NETI_DA204\Module5\Publish\TimeTrackerCS\TimeTrackerCS\obj\x86\Debug\BirthdayWatch.exe
+D:\1NETI_DA204\Module5\Publish\TimeTrackerCS\TimeTrackerCS\obj\x86\Debug\BirthdayWatch.pdb
+D:\1NETI_DA204\Module5\Publish\TimeTrackerCS\TimeTrackerCS\bin\Debug\BirthdayWatch.exe
+D:\1NETI_DA204\Module5\Publish\TimeTrackerCS\TimeTrackerCS\bin\Debug\BirthdayWatch.pdb
+D:\1NETI_DA204\Module5\Publish\TimeTrackerCS\TimeTrackerCS\obj\x86\Debug\TimeTrackerCS.csprojResolveAssemblyReference.cache
+D:\1NETI_DA204\Module5\Publish\TimeTrackerCS\TimeTrackerCS\obj\x86\Debug\TimeTracker.MainForm.resources
+D:\1NETI_DA204\Module5\Publish\TimeTrackerCS\TimeTrackerCS\obj\x86\Debug\TimeTracker.Properties.Resources.resources
+D:\1NETI_DA204\Module5\Publish\TimeTrackerCS\TimeTrackerCS\obj\x86\Debug\TimeTrackerCS.csproj.GenerateResource.Cache

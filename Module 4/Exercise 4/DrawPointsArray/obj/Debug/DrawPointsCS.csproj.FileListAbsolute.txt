@@ -1,0 +1,37 @@
+C:\Users\tsfana\Desktop\DrawPoints\DrawPointsCS\bin\Debug\DrawPointsCS.exe.config
+C:\Users\tsfana\Desktop\DrawPoints\DrawPointsCS\obj\Debug\DrawPointsCS.csprojResolveAssemblyReference.cache
+C:\Users\tsfana\Desktop\DrawPoints\DrawPointsCS\obj\Debug\DrawPointsCS.MainForm.resources
+C:\Users\tsfana\Desktop\DrawPoints\DrawPointsCS\obj\Debug\DrawPointsCS.Properties.Resources.resources
+C:\Users\tsfana\Desktop\DrawPoints\DrawPointsCS\obj\Debug\DrawPointsCS.csproj.GenerateResource.Cache
+C:\Users\tsfana\Desktop\DrawPoints\DrawPointsCS\bin\Debug\DrawPointsCS.exe
+C:\Users\tsfana\Desktop\DrawPoints\DrawPointsCS\bin\Debug\DrawPointsCS.pdb
+C:\Users\tsfana\Desktop\DrawPoints\DrawPointsCS\obj\Debug\DrawPointsCS.exe
+C:\Users\tsfana\Desktop\DrawPoints\DrawPointsCS\obj\Debug\DrawPointsCS.pdb
+D:\.NET Courses\NETI_DA204\Module5\Exercises\DrawPointsCS\bin\Debug\DrawPointsCS.exe.config
+D:\.NET Courses\NETI_DA204\Module5\Exercises\DrawPointsCS\obj\Debug\DrawPointsCS.exe
+D:\.NET Courses\NETI_DA204\Module5\Exercises\DrawPointsCS\obj\Debug\DrawPointsCS.pdb
+D:\.NET Courses\NETI_DA204\Module5\Exercises\DrawPointsCS\bin\Debug\DrawPointsCS.exe
+D:\.NET Courses\NETI_DA204\Module5\Exercises\DrawPointsCS\bin\Debug\DrawPointsCS.pdb
+D:\.NET Courses\NETI_DA204\Module5\Exercises\DrawPointsCS\obj\Debug\DrawPointsCS.csprojResolveAssemblyReference.cache
+D:\.NET Courses\NETI_DA204\Module5\Exercises\DrawPointsCS\obj\Debug\DrawPointsCS.MainForm.resources
+D:\.NET Courses\NETI_DA204\Module5\Exercises\DrawPointsCS\obj\Debug\DrawPointsCS.Properties.Resources.resources
+D:\.NET Courses\NETI_DA204\Module5\Exercises\DrawPointsCS\obj\Debug\DrawPointsCS.csproj.GenerateResource.Cache
+D:\1NETI_DA204\Module4N\Exercises\DrawPointsCS\DrawPointsCS\bin\Debug\DrawPointsCS.exe.config
+D:\1NETI_DA204\Module4N\Exercises\DrawPointsCS\DrawPointsCS\obj\Debug\DrawPointsCS.exe
+D:\1NETI_DA204\Module4N\Exercises\DrawPointsCS\DrawPointsCS\obj\Debug\DrawPointsCS.pdb
+D:\1NETI_DA204\Module4N\Exercises\DrawPointsCS\DrawPointsCS\bin\Debug\DrawPointsCS.exe
+D:\1NETI_DA204\Module4N\Exercises\DrawPointsCS\DrawPointsCS\bin\Debug\DrawPointsCS.pdb
+D:\1NETI_DA204\Module4N\Exercises\DrawPointsCS\DrawPointsCS\obj\Debug\DrawPointsCS.csprojResolveAssemblyReference.cache
+D:\1NETI_DA204\Module4N\Exercises\DrawPointsCS\DrawPointsCS\obj\Debug\DrawPointsCS.MainForm.resources
+D:\1NETI_DA204\Module4N\Exercises\DrawPointsCS\DrawPointsCS\obj\Debug\DrawPointsCS.Properties.Resources.resources
+D:\1NETI_DA204\Module4N\Exercises\DrawPointsCS\DrawPointsCS\obj\Debug\DrawPointsCS.csproj.GenerateResource.Cache
+D:\000.NET\1NETI_DA204\Module4N\Exercises\DrawPointsDL\DrawPoints\bin\Debug\DrawPointsCS.exe.config
+D:\000.NET\1NETI_DA204\Module4N\Exercises\DrawPointsDL\DrawPoints\bin\Debug\DrawPointsCS.exe
+D:\000.NET\1NETI_DA204\Module4N\Exercises\DrawPointsDL\DrawPoints\bin\Debug\DrawPointsCS.pdb
+D:\000.NET\1NETI_DA204\Module4N\Exercises\DrawPointsDL\DrawPoints\obj\Debug\DrawPointsCS.csprojAssemblyReference.cache
+D:\000.NET\1NETI_DA204\Module4N\Exercises\DrawPointsDL\DrawPoints\obj\Debug\DrawPointsCS.MainForm.resources
+D:\000.NET\1NETI_DA204\Module4N\Exercises\DrawPointsDL\DrawPoints\obj\Debug\DrawPointsCS.Properties.Resources.resources
+D:\000.NET\1NETI_DA204\Module4N\Exercises\DrawPointsDL\DrawPoints\obj\Debug\DrawPointsCS.csproj.GenerateResource.cache
+D:\000.NET\1NETI_DA204\Module4N\Exercises\DrawPointsDL\DrawPoints\obj\Debug\DrawPointsCS.csproj.CoreCompileInputs.cache
+D:\000.NET\1NETI_DA204\Module4N\Exercises\DrawPointsDL\DrawPoints\obj\Debug\DrawPointsCS.exe
+D:\000.NET\1NETI_DA204\Module4N\Exercises\DrawPointsDL\DrawPoints\obj\Debug\DrawPointsCS.pdb

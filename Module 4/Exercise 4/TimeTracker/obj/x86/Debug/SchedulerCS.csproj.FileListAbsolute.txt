@@ -1,0 +1,8 @@
+C:\temp\33\bin\Debug\BirthdayWatch.exe
+C:\temp\33\bin\Debug\BirthdayWatch.pdb
+C:\temp\33\obj\x86\Debug\TimeTracker.MainForm.resources
+C:\temp\33\obj\x86\Debug\TimeTracker.Properties.Resources.resources
+C:\temp\33\obj\x86\Debug\SchedulerCS.csproj.GenerateResource.Cache
+C:\temp\33\obj\x86\Debug\BirthdayWatch.exe
+C:\temp\33\obj\x86\Debug\BirthdayWatch.pdb
+C:\temp\33\obj\x86\Debug\SchedulerCS.csprojResolveAssemblyReference.cache

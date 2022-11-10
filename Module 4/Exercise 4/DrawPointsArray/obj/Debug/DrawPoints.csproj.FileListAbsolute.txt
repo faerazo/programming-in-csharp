@@ -1,0 +1,10 @@
+D:\000.NET\1NETI_DA204\Module4N\Exercises\DrawPointsArray\obj\Debug\DrawPoints.csprojAssemblyReference.cache
+D:\000.NET\1NETI_DA204\Module4N\Exercises\DrawPointsArray\obj\Debug\DrawPointsCS.MainForm.resources
+D:\000.NET\1NETI_DA204\Module4N\Exercises\DrawPointsArray\obj\Debug\DrawPointsCS.Properties.Resources.resources
+D:\000.NET\1NETI_DA204\Module4N\Exercises\DrawPointsArray\obj\Debug\DrawPoints.csproj.GenerateResource.cache
+D:\000.NET\1NETI_DA204\Module4N\Exercises\DrawPointsArray\obj\Debug\DrawPoints.csproj.CoreCompileInputs.cache
+D:\000.NET\1NETI_DA204\Module4N\Exercises\DrawPointsArray\obj\Debug\DrawPointsCS.exe
+D:\000.NET\1NETI_DA204\Module4N\Exercises\DrawPointsArray\obj\Debug\DrawPointsCS.pdb
+D:\000.NET\1NETI_DA204\Module4N\Exercises\DrawPointsArray\bin\Debug\DrawPointsCS.exe.config
+D:\000.NET\1NETI_DA204\Module4N\Exercises\DrawPointsArray\bin\Debug\DrawPointsCS.exe
+D:\000.NET\1NETI_DA204\Module4N\Exercises\DrawPointsArray\bin\Debug\DrawPointsCS.pdb
