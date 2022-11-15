@@ -22,3 +22,14 @@ D:\1NETI_DA204\Module5\Publish\TimeTrackerCS\TimeTrackerCS\obj\x86\Debug\TimeTra
 D:\1NETI_DA204\Module5\Publish\TimeTrackerCS\TimeTrackerCS\obj\x86\Debug\TimeTracker.MainForm.resources
 D:\1NETI_DA204\Module5\Publish\TimeTrackerCS\TimeTrackerCS\obj\x86\Debug\TimeTracker.Properties.Resources.resources
 D:\1NETI_DA204\Module5\Publish\TimeTrackerCS\TimeTrackerCS\obj\x86\Debug\TimeTrackerCS.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 4\Exercise 4\TimeTracker\bin\Debug\BirthdayWatch.exe.config
+\\Mac\Home\Downloads\programming-in-csharp\Module 4\Exercise 4\TimeTracker\bin\Debug\BirthdayWatch.exe
+\\Mac\Home\Downloads\programming-in-csharp\Module 4\Exercise 4\TimeTracker\bin\Debug\BirthdayWatch.pdb
+\\Mac\Home\Downloads\programming-in-csharp\Module 4\Exercise 4\TimeTracker\obj\x86\Debug\TimeTrackerCS.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 4\Exercise 4\TimeTracker\obj\x86\Debug\TimeTrackerCS.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 4\Exercise 4\TimeTracker\obj\x86\Debug\TimeTracker.MainForm.resources
+\\Mac\Home\Downloads\programming-in-csharp\Module 4\Exercise 4\TimeTracker\obj\x86\Debug\TimeTracker.Properties.Resources.resources
+\\Mac\Home\Downloads\programming-in-csharp\Module 4\Exercise 4\TimeTracker\obj\x86\Debug\TimeTrackerCS.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 4\Exercise 4\TimeTracker\obj\x86\Debug\TimeTrackerCS.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 4\Exercise 4\TimeTracker\obj\x86\Debug\BirthdayWatch.exe
+\\Mac\Home\Downloads\programming-in-csharp\Module 4\Exercise 4\TimeTracker\obj\x86\Debug\BirthdayWatch.pdb
