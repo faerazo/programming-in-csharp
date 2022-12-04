@@ -1,0 +1,17 @@
+D:\1NETI_DA204\Module5N\Exercises\ProductRegistry\bin\Debug\ProductRegistryCS.exe
+D:\1NETI_DA204\Module5N\Exercises\ProductRegistry\bin\Debug\ProductRegistryCS.pdb
+D:\1NETI_DA204\Module5N\Exercises\ProductRegistry\obj\Debug\ProductRegistryCS.csprojResolveAssemblyReference.cache
+D:\1NETI_DA204\Module5N\Exercises\ProductRegistry\obj\Debug\ProductRegistryCS.MainForm.resources
+D:\1NETI_DA204\Module5N\Exercises\ProductRegistry\obj\Debug\ProductRegistryCS.Properties.Resources.resources
+D:\1NETI_DA204\Module5N\Exercises\ProductRegistry\obj\Debug\ProductRegistryCS.csproj.GenerateResource.Cache
+D:\1NETI_DA204\Module5N\Exercises\ProductRegistry\obj\Debug\ProductRegistryCS.exe
+D:\1NETI_DA204\Module5N\Exercises\ProductRegistry\obj\Debug\ProductRegistryCS.pdb
+D:\000.NET\1NETI_DA204\Module5N\Exercises\ProductRegistry\bin\Debug\ProductRegistryCS.exe
+D:\000.NET\1NETI_DA204\Module5N\Exercises\ProductRegistry\bin\Debug\ProductRegistryCS.pdb
+D:\000.NET\1NETI_DA204\Module5N\Exercises\ProductRegistry\obj\Debug\ProductRegistryCS.csprojResolveAssemblyReference.cache
+D:\000.NET\1NETI_DA204\Module5N\Exercises\ProductRegistry\obj\Debug\ProductRegistryCS.MainForm.resources
+D:\000.NET\1NETI_DA204\Module5N\Exercises\ProductRegistry\obj\Debug\ProductRegistryCS.Properties.Resources.resources
+D:\000.NET\1NETI_DA204\Module5N\Exercises\ProductRegistry\obj\Debug\ProductRegistryCS.csproj.GenerateResource.Cache
+D:\000.NET\1NETI_DA204\Module5N\Exercises\ProductRegistry\obj\Debug\ProductRegistryCS.csproj.CoreCompileInputs.cache
+D:\000.NET\1NETI_DA204\Module5N\Exercises\ProductRegistry\obj\Debug\ProductRegistryCS.exe
+D:\000.NET\1NETI_DA204\Module5N\Exercises\ProductRegistry\obj\Debug\ProductRegistryCS.pdb
