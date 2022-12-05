@@ -15,3 +15,14 @@ D:\000.NET\1NETI_DA204\Module5N\Exercises\ProductRegistry\obj\Debug\ProductRegis
 D:\000.NET\1NETI_DA204\Module5N\Exercises\ProductRegistry\obj\Debug\ProductRegistryCS.csproj.CoreCompileInputs.cache
 D:\000.NET\1NETI_DA204\Module5N\Exercises\ProductRegistry\obj\Debug\ProductRegistryCS.exe
 D:\000.NET\1NETI_DA204\Module5N\Exercises\ProductRegistry\obj\Debug\ProductRegistryCS.pdb
+\\Mac\Home\Downloads\programming-in-csharp\Module 5\Exercise 5\ProductRegistry\bin\Debug\ProductRegistryCS.exe.config
+\\Mac\Home\Downloads\programming-in-csharp\Module 5\Exercise 5\ProductRegistry\bin\Debug\ProductRegistryCS.exe
+\\Mac\Home\Downloads\programming-in-csharp\Module 5\Exercise 5\ProductRegistry\bin\Debug\ProductRegistryCS.pdb
+\\Mac\Home\Downloads\programming-in-csharp\Module 5\Exercise 5\ProductRegistry\obj\Debug\ProductRegistryCS.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 5\Exercise 5\ProductRegistry\obj\Debug\ProductRegistryCS.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 5\Exercise 5\ProductRegistry\obj\Debug\ProductRegistryCS.MainForm.resources
+\\Mac\Home\Downloads\programming-in-csharp\Module 5\Exercise 5\ProductRegistry\obj\Debug\ProductRegistryCS.Properties.Resources.resources
+\\Mac\Home\Downloads\programming-in-csharp\Module 5\Exercise 5\ProductRegistry\obj\Debug\ProductRegistryCS.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 5\Exercise 5\ProductRegistry\obj\Debug\ProductRegistryCS.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\programming-in-csharp\Module 5\Exercise 5\ProductRegistry\obj\Debug\ProductRegistryCS.exe
+\\Mac\Home\Downloads\programming-in-csharp\Module 5\Exercise 5\ProductRegistry\obj\Debug\ProductRegistryCS.pdb
